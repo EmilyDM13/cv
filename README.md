@@ -5,7 +5,9 @@ Animales favoritos:
   2. Nutria
   3. Capibara
    
-*Imagen de uno de los animales favoritos:*
+<p style="color:blue;" align="center">
+Imagen de uno de los animales favoritos:
+</p>
 
 ![Gato naranja](gato2.jpg)
 
@@ -17,5 +19,4 @@ Para conocer más sobre el arco del triunfo puede visitar: [Wikipedia](https://e
 
 **El Arco del Triunfo se encuentra ubicado en París, Francia**
 
-
-Imágenes desde: [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
+*Imágenes desde:* [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
