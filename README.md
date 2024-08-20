@@ -9,7 +9,7 @@ Animales favoritos:
 
 ![Gato naranja](gato2.jpg)
 
-##### Monumento que me gustaría visitar:
+### Monumento que me gustaría visitar:
 
 ![Arco del triunfo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Arco_del_Triunfo_%288307699708%29.jpg/640px-Arco_del_Triunfo_%288307699708%29.jpg)
 
